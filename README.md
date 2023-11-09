@@ -15,4 +15,4 @@ Ovdje ce biti upute vezane za objavu sadrzaja repozitorija na webu
 
 #Test datoteka
 
-(Poveznica na test.md datoteku)(test.md)
+[Poveznica na test.md datoteku](test.md)
